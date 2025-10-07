@@ -1,0 +1,12 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.nav-link.active {
+    background-color: #0d6efd;
+    color: white !important;
+    border-radius: 5px;
+}
+.table thead {
+    background-color: #0d6efd;
+    color: white;
+}
